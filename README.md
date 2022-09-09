@@ -8,6 +8,8 @@ Adds members of another group to another group
 - Add your API ID in line 10
 - Add your API hash in line 11
 
+<img src="img.png'>
+
 # Installation
 
 Instructions on how to install *Tadder*
