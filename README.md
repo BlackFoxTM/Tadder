@@ -36,3 +36,5 @@ python3 Tadder.py --help
 |  member extraction     |  `--ex or -e`      |   
 |    Add members         |  `--add or -a`     | 
 -----------------------------------------------
+
+## Note : In --add <groupid> --add username_group without @
