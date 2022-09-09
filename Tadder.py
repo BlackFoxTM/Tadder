@@ -19,7 +19,7 @@ res = "\033[0;m"
 
 #____________________________________________________________________________________
 help = f"""
-    {red}Usage {ylw}: {grn}python adder.py [OPTION] ...
+    {red}Usage {ylw}: {grn}python Tadder.py [OPTION] ...
     {ylw}Adds members of another group to another group
 
     Mandatory arguments to long options are mandatory for short options too
@@ -29,8 +29,8 @@ help = f"""
 
     {ylw}Use help 
 
-        {red}[{blu}Extract{red}] {grn}python {red}adder.py {ylw}--ex{red}/{ylw}-e 
-        {red}[{blu}Add{red}] {grn}python {red}adder.py {ylw}--add{red}/{ylw}-a {red}<{grn}Group Id{red}>
+        {red}[{blu}Extract{red}] {grn}python {red}Tadder.py {ylw}--ex{red}/{ylw}-e 
+        {red}[{blu}Add{red}] {grn}python {red}Tadder.py {ylw}--add{red}/{ylw}-a {red}<{grn}Group Id{red}>
 
 """
 
@@ -42,7 +42,8 @@ asciiArt = f"""{red}
 |  O  ||     T|  _  /   \_ |     Y    |   _] |     ||     |
 |     ||     ||  |  \     ||  .  |    |  T   l     !|  |  |
 l_____jl_____jl__j__j\____jl__j\_j    l__j    \___/ |__j__|
-            {grn}Telegram {blu}:  {red}@BlackFoxSecurityTeam                                   
+            {grn}Telegram {blu}:  {red}@BlackFoxSecurityTeam  
+            {blu} Coded By MrB4rCod & Maximum Radikali
 {res}"""
 
 #____________________________________________________________________________________
