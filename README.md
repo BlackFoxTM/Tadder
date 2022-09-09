@@ -37,4 +37,4 @@ python3 Tadder.py --help
 |    Add members         |  `--add or -a`     | 
 -----------------------------------------------
 
-## Note : In --add <groupid> --add username_group without @
+## Note : In --add (groupid) --add username_group without @
