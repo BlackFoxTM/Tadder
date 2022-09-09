@@ -20,6 +20,11 @@ Go to the directory
 ```
 cd Tadder
 ```
+install requirements
+```
+pip3 install -r requirements.txt
+```
+
 See Help
 ```
 python3 Tadder.py --help
